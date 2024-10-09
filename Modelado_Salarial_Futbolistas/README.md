@@ -14,20 +14,20 @@ Se realizará un análisis de la literatura existente relacionada con el modelad
 ### Método de los k-vecinos más cercanos: KNN
 
 ## Índice del Proyecto
-1. [Introducción](#introducción)
-2. [Revisión Bibliográfica](#revisión-bibliográfica)
-3. [Datos](#datos)
-4. [Modelos Estadísticos Utilizados](#modelos-estadísticos-utilizados)
-   - 4.1 [Regresión Lineal Múltiple](#regresión-lineal-múltiple)
-   - 4.2 [Árboles de Regresión y Random Forest](#árboles-de-regresión-y-random-forest)
-   - 4.3 [Método de los k-vecinos más cercanos: KNN](#método-de-los-k-vecinos-más-cercanos-knn)
-5. [Resultados](#resultados)
-   - 5.1 [Regresión Lineal Múltiple](#regresión-lineal-múltiple-1)
-   - 5.2 [Árboles de Regresión y Random Forest](#árboles-de-regresión-y-random-forest-1)
-   - 5.3 [Método de los k-vecinos más cercanos: KNN](#método-de-los-k-vecinos-más-cercanos-knn-1)
-6. [Conclusiones](#conclusiones)
-7. [Bibliografía](#bibliografía)
-8. [Anexos](#anexos)
-   - [Defensas](#anexo-1---defensas)
-   - [Mediocentros](#anexo-2---mediocentros)
-   - [Delanteros](#anexo-3---delanteros)
+1. Introducción
+2. Revisión Bibliográfica
+3. Datos
+4. Modelos Estadísticos Utilizados
+   - 4.1 Regresión Lineal Múltiple
+   - 4.2 Árboles de Regresión y Random Forest
+   - 4.3 Método de los k-vecinos más cercanos: KNN
+5. Resultados
+   - 5.1 Regresión Lineal Múltiple
+   - 5.2 Árboles de Regresión y Random Forest
+   - 5.3 Método de los k-vecinos más cercanos: KNN
+6. Conclusiones](#conclusiones)
+7. Bibliografía](#bibliografía)
+8. Anexos
+   - Defensas
+   - Mediocentros
+   - Delanteros
