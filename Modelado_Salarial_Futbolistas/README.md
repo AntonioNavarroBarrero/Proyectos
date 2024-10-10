@@ -3,6 +3,8 @@
 ## Introducción
 Este proyecto tiene como objetivo desarrollar un modelo predictivo para estimar los salarios de los futbolistas basado en sus rendimientos en el campo. A través de diversas técnicas de modelado estadístico, se busca identificar las variables más influyentes que afectan los salarios en el mundo del fútbol, proporcionando así una herramienta útil para clubes, agentes y analistas.
 
+La construcción de los diferentes modelos del trabajo se ha realizado en SAS y R.
+
 ## Revisión Bibliográfica
 Se realizará un análisis de la literatura existente relacionada con el modelado predictivo en deportes, centrándose en estudios previos sobre la relación entre el rendimiento de los futbolistas y su remuneración.
 
